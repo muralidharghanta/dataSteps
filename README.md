@@ -1,2 +1,2 @@
 # dataSteps
-step into data science 
+step into data science. Create initial commit. 
